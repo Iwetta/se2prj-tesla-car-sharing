@@ -11,7 +11,7 @@ A.Y. 2016/2017.
 
 ## Deliverables
 
-1. **RASD**: [download the latest version here](https://github.com/Iwetta/se2prj-tesla-car-sharing/raw/master/Deliveries/RASD.pdf).
+1. **RASD**: [download the latest version here](https://github.com/Iwetta/se2prj-tesla-car-sharing/raw/master/releases/RASD.pdf).
 2. **DD**
 3. **Testing document**
 4. **Project management**
@@ -19,7 +19,7 @@ A.Y. 2016/2017.
 
 ## Project schedule
 * ~~Group registration deadline 23/10/2016~~
-* RASD submission deadline 13/11/2016
+* ~~RASD submission deadline 13/11/2016~~
 * DD submission deadline 11/12/2016
 * Testing document submission deadline 15/01/2017
 * Project management deadline 22/01/2017
