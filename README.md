@@ -15,6 +15,7 @@ A.Y. 2016/2017.
 2. **DD**: [download the latest version here](https://github.com/Iwetta/se2prj-tesla-car-sharing/raw/master/releases/DD.pdf).
 3. **ITPD**: [download the latest version here](https://github.com/Iwetta/se2prj-tesla-car-sharing/raw/master/releases/ITPD.pdf).
 4. **PPD**: [download the latest version here](https://github.com/Iwetta/se2prj-tesla-car-sharing/raw/master/releases/PPD.pdf).
+5. **CID**: [download the latest version here](https://github.com/Iwetta/se2prj-tesla-car-sharing/raw/master/releases/CID.pdf).
 
 
 ## Project schedule
@@ -23,5 +24,5 @@ A.Y. 2016/2017.
 * ~~DD submission deadline 11/12/2016~~
 * ~~ITPD submission deadline 15/01/2017~~
 * ~~PPD submission deadline 22/01/2017~~
-* CI deadline 05/02/2017
-* Final presentation (to be scheduled)
+* ~~CID submission deadline 05/02/2017~~
+* Final presentation 09/02/2017
